@@ -1,0 +1,11 @@
+{
+    "name": "juand/export_pdf",
+    "description": "Aplicacion de libreria fpdf",
+    "type": "project",
+    "require": {
+        "setasign/fpdf": "dev-master",
+        "dompdf/dompdf": "dev-master"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
