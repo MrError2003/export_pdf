@@ -25,5 +25,9 @@
     <form action="carta_arrendatarios.php" method="POST">
         <input type="submit" name="carta_arrendatarios" value="CARTA ARRENDATARIOS">
     </form>
+
+    <form action="contrato_arriendo.php" method="POST">
+        <input type="submit" name="contrato_arrientdo" value="CONTRATO ARRENDATARIOS">
+    </form>
 </body>
 </html>
